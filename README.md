@@ -12,4 +12,4 @@ Ryan, Noah, Carter, Brayden, and Max
 
 Project plan
 
-https://76.167.172.90:25565/
+http://76.167.172.90:25565/
