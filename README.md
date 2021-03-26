@@ -2,7 +2,7 @@
 
 Schtocks is a stock website where you can trade and buy stocks, and compete to be the richest person in the world! 
 
-Ryan, Noah, Carter, Brayden, and Max
+# Ryan, Noah, Carter, Brayden, and Max
 
 # [Scrum Board](https://github.com/noahahooja/p4schlimes/projects/1)
 
