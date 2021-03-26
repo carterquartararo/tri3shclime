@@ -1,15 +1,11 @@
-# p4schlimes
+# Schtock by p4schlimes
+
+Schtocks is a stock website where you can trade and buy stocks, and compete to be the richest person in the world! 
 
 Ryan, Noah, Carter, Brayden, and Max
 
-[Canvas Page](https://poway.instructure.com/courses/91261)
+# [Scrum Board](https://github.com/noahahooja/p4schlimes/projects/1)
 
-[AP CS P timeline](https://padlet.com/jmortensen7/csp2021tri3)
+# Project plan
 
-[Journals](https://docs.google.com/spreadsheets/d/1gniMw6JEzcoD-AOraMhiplvfpqTh279tup_4V-yCPOQ/edit?usp=sharing)
-
-[Scrum Board](https://github.com/noahahooja/p4schlimes/projects/1)
-
-Project plan
-
-http://76.167.172.90:25565/
+# [Runtime link](http://76.167.172.90:25565/)
