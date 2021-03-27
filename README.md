@@ -22,11 +22,11 @@ Schtocks is a stock website where you can trade and buy stocks, and compete to b
 
 ## Brayden
 
--In progress ticket:
+-In progress ticket: https://github.com/noahahooja/p4schlimes/projects/1#card-57047508
 
--Backlog ticket:
+-Backlog ticket: https://github.com/noahahooja/p4schlimes/projects/1#card-57047692
 
--Github commit towards ticket:
+-Github commit towards ticket: My ticket was get the pi up and running so check the [runtime link](http://76.167.172.90:25565/) 
 
 -Github commit towards minilab:
 
